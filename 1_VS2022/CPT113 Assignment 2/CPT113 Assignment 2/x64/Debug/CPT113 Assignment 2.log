@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\CPT113 Assignment 2\main.cpp(54,13): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\CPT113 Assignment 2\main.cpp(210,31): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\CPT113 Assignment 2\main.cpp(256,43): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\CPT113 Assignment 2\main.cpp(300,43): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\CPT113 Assignment 2\main.cpp(334,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\CPT113 Assignment 2\main.cpp(512,35): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  CPT113 Assignment 2.vcxproj -> C:\Users\USER\Downloads\1_VS2022\1_VS2022\CPT113 Assignment 2\x64\Debug\CPT113 Assignment 2.exe
